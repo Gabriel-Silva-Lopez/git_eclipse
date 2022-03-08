@@ -1,2 +1,2 @@
 # git_eclipse
-Git en entorno de desarrollo eclipse
+Git ejercicio 3 de entorno de desarrollo eclipse
